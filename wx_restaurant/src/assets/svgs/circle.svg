@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" version="1.1"
+  xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="50" r="40" stroke="black"
+  stroke-width="2" fill="red"/>
+</svg>
+<svg width="100%" height="100%" version="1.1"
+  xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="50" r="40" stroke="black"
+  stroke-width="2" fill="red"/>
+</svg>
+<svg class="icon icon-plus" width="20" height="20" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#333" d="M580.722 437.99V78.171H436.794v359.82H76.975v143.927h359.82v359.82h143.927v-359.82h359.82V437.99z"/>
+</svg>
+<svg class="icon icon-minus" width="20" height="20" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#333" d="M587.23 437.99H76.974v143.928h863.567V437.99z"/>
+</svg>
+<svg class="icon icon-return1" width="20" height="20" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#333" d="M393.39 512.024L741.34 175.675c20.508-19.858 20.508-51.997 0-71.792-20.507-19.827
+      -53.78-19.827-74.286 0L281.99 476.135c-20.476 19.827-20.476 51.982 0 71.746l385.062 372.237c10.285
+      9.914 23.728 14.87 37.174 14.87 13.446 0 26.889-4.957 37.112-14.902 20.508-19.826 20.508-51.92 0-71.746L393.39 512.024"/>
+</svg>

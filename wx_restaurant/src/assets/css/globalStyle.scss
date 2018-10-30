@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-size: .3rem;
+    font-weight: 400;
+    font-style: normal;
+    list-style: none;
+    font-family: "微软雅黑";
+    text-size-adjust: 100%; 
+}
+  html,body{
+  width:100%;
+  height:100%
+  }
+  $browser-default-font-size: 37.5px !default;
+  html {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    font-size: 625%;
+    // font-size: $browser-default-font-size;
+   }
+  
+  img, div, body, html, ul, li, a {
+    -webkit-touch-callout: none; }
+  
+  input, button {
+    outline: 0; }
+  
+  button {
+    cursor: pointer; }
+  
+  input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color:#999; }
+  
+  // #app {
+  //   width:100%;
+  //   height: 100%;
+  // }
+  // .wrap{
+  //     width: 100%;
+  //     height: 100%;
+  //     display: flex;
+  //     flex-direction: column;
+  // }
+  // .header{
+  //     width: 100%;
+  //     height: .6rem;
+  // }
+  // .section{
+  //     flex: 1;
+  //     overflow: hidden;
+  // }
+  // .footer{
+  //   width: 100%;
+  //   height: .6rem;
+  // }
